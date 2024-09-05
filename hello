@@ -1,0 +1,10 @@
+Scrolling  - locomotive Smooth
+step-- scroll loco from github css file
+    -- scroll loco code of js
+    --link script of loco cdn 
+    --chnage datra container to the container in whic the website is contained 
+GSAP
+ScrollTrigger
+
+//teeno element ko select karo then uspar mouse move lagao jab mouse move hoto ye pata karo ki mouse kahaan se khaan par hai
+mouse ki x and y pos pata karo ab mouse x and y positiion ki jagah image ko show and move karo and image kob rotae karo and jaise jaise mouse texz chale waise waise speed badhao
